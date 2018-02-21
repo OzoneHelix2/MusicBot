@@ -52,8 +52,13 @@
     "cmd-search-decline": "Oh well :(",
     "cmd-np-action-streaming": "Streaming",
     "cmd-np-action-playing": "Playing",
+<<<<<<< HEAD
     "cmd-np-reply-author": "Now {action}: **{title}** added by **{author}**\nProgress: {progress_bar} {progress}\n:point_right: <{url}>",
     "cmd-np-reply-noauthor": "Now {action}: **{title}**\nProgress: {progress_bar} {progress}\n:point_right: <{url}>",
+=======
+    "cmd-np-reply-author": "Now {action}: `{title}` added by `{author}` {progress}\n**URL:** <{url}>",
+    "cmd-np-reply-noauthor": "Now {action}: `{title}` {progress}\n**URL:** <{url}>",
+>>>>>>> 555bc320972691a2ca33c59d1e75dc56c50b95c2
     "cmd-np-none": "There are no songs queued! Queue something with {0}play.",
     "cmd-summon-novc": "You are not in a voice channel!",
     "cmd-summon-noperms-connect": "Cannot join channel `{0}`, no permission to connect.",
